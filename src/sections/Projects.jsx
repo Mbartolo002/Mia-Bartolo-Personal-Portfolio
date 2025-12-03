@@ -1,8 +1,8 @@
 import React from 'react'
 
 const projects = [
-  {title:'Project 1',desc:'A description of your project and the technologies used',link:'#'},
-  {title:'Project 2',desc:'Another project showcasing your skills and experience',link:'#'}
+  {title:'Project 1',desc:'Currently in progress',link:'#'},
+  {title:'Project 2',desc:'Currently in progress',link:'#'}
 ]
 
 export default function Projects(){
