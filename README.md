@@ -31,6 +31,4 @@ npm run build
 npm run preview
 ```
 
-Notes
-- The contact form is a demo and doesn't send real emails. Hook up an email service (Formspree, Netlify forms, or your backend) to make it functional.
-- Replace placeholder content, avatar, and social links with your real details.
+
